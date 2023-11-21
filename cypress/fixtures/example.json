@@ -1,0 +1,9 @@
+{
+  "name": "Using fixtures to represent data",
+  "email": "hello@cypress.io",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "headers": ["Rank", "Company", "Employees", "Country"],
+  "cabinClass": ["Premium Economy", "Business", "First"],
+  "date": ["1", "Adult (16-64)"],
+  "citys": ["Illinois", "Florida", "California", "New York", "Texas"]
+}
